@@ -23,4 +23,11 @@
 | That | ca | sa
 | That is | Ca c'est | sa say
 | Always | Toujours | tujour
-| Perfect | parfait | perfay
+| For him | Pour lui | por lui
+| For her | Pour elle | por el
+| No | non | nau
+| bad | mauvais | muvay
+| The restaurant | le restaurant | lo restahan 
+| isn't | n'est pas | ne pa
+| is | est | eh
+| everything | tout | to
