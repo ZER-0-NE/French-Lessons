@@ -6,7 +6,7 @@
 | --- | --- | ---|
 | It is | C'est | say
 | It isn't | Ce n'est pas | snepa
-| Bon | Good | bon
+| Bon | Good | bon (masc)
 | Fantastic | Fantastqiue | fontasteeq
 | Absolutely | Absolument | absulimon
 | here | ici | ici
@@ -31,3 +31,7 @@
 | isn't | n'est pas | ne pa
 | is | est | eh
 | everything | tout | to
+| the chicken | le poulet | lo puley (masc)
+| the turkey | la dinde | la daand (femn)
+| the boy | le garcon | lo garsauhn (masc)
+| the girl | la fille | la feel (femn)
