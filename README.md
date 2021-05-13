@@ -35,3 +35,4 @@
 | the turkey | la dinde | la daand (femn)
 | the boy | le garcon | lo garsauhn (masc)
 | the girl | la fille | la feel (femn)
+| terrible | terrible | terr-e-bla
