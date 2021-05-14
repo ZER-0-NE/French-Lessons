@@ -19,7 +19,7 @@
 | But | mais | may
 | Yes | Oui | oui
 | Thank you | merci | merci
-| Perfect | parfait | perfay
+| Perfect | parfait | parfay
 | That | ca | sa
 | That is | Ca c'est | sa say
 | Always | Toujours | tujour
@@ -36,3 +36,7 @@
 | the boy | le garcon | lo garsauhn (masc)
 | the girl | la fille | la feel (femn)
 | terrible | terrible | terr-e-bla
+| my | mon/ma | mon  (masc)/ ma (femn)
+| the hotel | l'hotel | lo-tell
+| everybody/everyone | tout le monde | tou le monde
+| nice | sympa | sampa
