@@ -36,7 +36,15 @@
 | the boy | le garcon | lo garsauhn (masc)
 | the girl | la fille | la feel (femn)
 | terrible | terrible | terr-e-bla
-| my | mon/ma | mon  (masc)/ ma (femn)
+| my | mon/ma | mon(masc)/ ma (femn)
 | the hotel | l'hotel | lo-tell
 | everybody/everyone | tout le monde | tou le monde
 | nice | sympa | sampa
+| a | un(masc)/une(femn) | unn/oone
+| coffee | cafe | caffe
+| tea | the | te
+| please | sil vous plait | si vu play
+| I would like | je voudrais | je vudray
+| a reservation | une reservation | oone reservacion
+| two people | deux personnes | deu persauunh
+| a table | une table | oone taabla
