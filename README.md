@@ -30,7 +30,7 @@
 | The restaurant | le restaurant | lo restahan 
 | isn't | n'est pas | ne pa
 | is | est | eh
-| everything | tout | to
+| everything | tout | tu
 | the chicken | le poulet | lo puley (masc)
 | the turkey | la dinde | la daand (femn)
 | the boy | le garcon | lo garsauhn (masc)
