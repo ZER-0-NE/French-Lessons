@@ -13,9 +13,9 @@
 | very | tres | trre
 | Delicious | delicieux | delisia
 | Extraordinary | extraordinaire | extraordinaire
-| Beautiful | beau | bou
-| For me | *Pour moi | por muah
-| I think | Pour moi | por muah
+| Beautiful | beau(masc)/belle(femn) | bou/bell
+| For me | Pour moi | por muah
+| I think | *Pour moi | por muah
 | But | mais | may
 | Yes | Oui | oui
 | Thank you | merci | merci
@@ -48,3 +48,17 @@
 | a reservation | une reservation | oone reservacion
 | two people | deux personnes | deu persauunh
 | a table | une table | oone taabla
+| the food | la nourriture | la norritou
+| and | et | eh
+| also | aussi | ossey
+| are | sont | saun
+| are not | ne sont pas | nu saun pa
+
+
+
+
+
+
+
+
+![les - plurals](assets/1.png)
