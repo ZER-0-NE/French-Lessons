@@ -53,11 +53,12 @@
 | also | aussi | ossey
 | are | sont | saun
 | are not | ne sont pas | nu saun pa
-
-
-
-
-
+| hi | salut | salu
+| hello/good day/ good morning | bonjour | bonjou
+| good evening/ good afternoon | bonsoir | bonsuar
+| good night | bonne nuit | bonne nui
+| good bye/ till we see each other again | au revoir | au revaah
+| have a good day | bonne journee | bonne jorney
 
 
 
