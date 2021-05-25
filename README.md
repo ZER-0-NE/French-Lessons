@@ -55,11 +55,13 @@
 | are not | ne sont pas | nu saun pa
 | hi | salut | salu
 | hello/good day/ good morning | bonjour | bonjou
-| good evening/ good afternoon | bonsoir | bonsuar
+| good evening/ good afternoon | bonsoir | bonsuah
+| have a good evening | bonne soiree | bonsuar
 | good night | bonne nuit | bonne nui
-| good bye/ till we see each other again | au revoir | au revaah
+| good bye/ till we see each other again | au revoir | au-vaah
 | have a good day | bonne journee | bonne jorney
+| have a good evening | bonne soiree | bonsuarey
+| see you soon | a bientot | abiento
 
-
-
+![greetings](assets/2.png)
 ![les - plurals](assets/1.png)
