@@ -64,8 +64,13 @@
 | see you soon | a bientot | abiento
 
 
-
-
-
 ![greetings](assets/2.png)
 ![les - plurals](assets/1.png)
+
+
+## Course 2
+
+| English | French | Pronounciation
+| --- | --- | ---|
+| the bill | l'addition | ladicion
+| a bottle of | une bouteille de | oon butey du
