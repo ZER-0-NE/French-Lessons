@@ -74,3 +74,5 @@
 | --- | --- | ---|
 | the bill | l'addition | ladicion
 | a bottle of | une bouteille de | oon butey du
+| the wine | le vin | lu van
+| a bottle of water | une bouteille d'eau | oon butey deau
