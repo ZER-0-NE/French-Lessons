@@ -74,5 +74,7 @@
 | --- | --- | ---|
 | the bill | l'addition | ladicion
 | a bottle of | une bouteille de | oon butey du
-| the wine | le vin | lu van
+| the wine/ of wine | le vin/ de vin | lu van/ du van
 | a bottle of water | une bouteille d'eau | oon butey deau
+| how much is it?/ how much is ... | c'est combien? | say combiya
+| excuse me| excusex-moi | ex-cusay-mua
