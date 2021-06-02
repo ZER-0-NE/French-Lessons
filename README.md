@@ -56,7 +56,6 @@
 | hi | salut | salu
 | hello/good day/ good morning | bonjour | bonjou
 | good evening/ good afternoon | bonsoir | bonsuah
-| have a good evening | bonne soiree | bonsuar
 | good night | bonne nuit | bonne nui
 | good bye/ till we see each other again | au revoir | au-vaah
 | have a good day | bonne journee | bonne jorney
@@ -75,6 +74,7 @@
 | the bill | l'addition | ladicion
 | a bottle of | une bouteille de | oon butey du
 | the wine/ of wine | le vin/ de vin | lu van/ du van
-| a bottle of water | une bouteille d'eau | oon butey deau
+| a bottle of water | une bouteille d'eau | oon butey deau (hindi pronounciation for 2)
 | how much is it?/ how much is ... | c'est combien? | say combiya
-| excuse me| excusex-moi | ex-cusay-mua
+| excuse me | excusex-moi | ex-cusay-mua
+| the water | l'eau | lou
