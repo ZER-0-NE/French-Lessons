@@ -78,3 +78,5 @@
 | how much is it?/ how much is ... | c'est combien? | say combiya
 | excuse me | excusex-moi | ex-cusay-mua
 | the water | l'eau | lou
+| (to) try | essayer | essay-ye
+| can I | puis-je? | puis-ja
