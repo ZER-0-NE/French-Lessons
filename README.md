@@ -79,4 +79,6 @@
 | excuse me | excusex-moi | ex-cusay-mua
 | the water | l'eau | lou
 | (to) try | essayer | essay-ye
-| can I | puis-je? | puis-ja
+| can I/ may I | puis-je? | puis-jah
+| (to) pay | payer | peye
+| (to) make | faire | fe-eh
