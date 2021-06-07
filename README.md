@@ -81,4 +81,4 @@
 | (to) try | essayer | essay-ye
 | can I/ may I | puis-je? | puis-jah
 | (to) pay | payer | peye
-| (to) make | faire | fe-eh
+| (to) make | faire | feah
