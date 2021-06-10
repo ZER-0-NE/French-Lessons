@@ -82,3 +82,6 @@
 | can I/ may I | puis-je? | puis-jah
 | (to) pay (for)| payer | peye
 | (to) make | faire | feah
+| (to) hire/rent | louer | luye
+| a car | une voiture | oon voitueah
+| a week/one week | une semaine | oon semain
