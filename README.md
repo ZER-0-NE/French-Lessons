@@ -85,3 +85,4 @@
 | (to) hire/rent | louer | luye
 | a car | une voiture | oon voitueah
 | a week/one week | une semaine | oon semain
+| a day/one day | un jour | unjour
