@@ -84,5 +84,6 @@
 | (to) make | faire | feah
 | (to) hire/rent | louer | luye
 | a car | une voiture | oon voitueah
+| a month/one month | un mois | un-muah
 | a week/one week | une semaine | oon semain
 | a day/one day | un jour | unjour
