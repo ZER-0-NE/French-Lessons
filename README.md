@@ -87,3 +87,5 @@
 | a month/one month | un mois | un-muah
 | a week/one week | une semaine | oon semain
 | a day/one day | un jour | unjour
+| euro | euro | oro
+| cents | cents | sunteme
