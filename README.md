@@ -88,4 +88,5 @@
 | a week/one week | une semaine | oon semain
 | a day/one day | un jour | unjour
 | euro | euro | oro
-| cents | cents | sunteme
+| cents | centimes | sunteme
+| per | par | par
