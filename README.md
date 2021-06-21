@@ -89,4 +89,4 @@
 | a day/one day | un jour | unjour
 | euro | euro | oro
 | cents | centimes | sunteme
-| per | par | par
+| per | par | paar
