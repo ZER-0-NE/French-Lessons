@@ -91,5 +91,6 @@
 | cents | centimes | sunteme
 | per | par | paar
 | (at) what time..? | a quelle heure..? | a-kel-er
-| the breakfast | lo petit-dejeuner | lo-piti-dejuney
+| the breakfast | lo petit-dejeuner | lo-peti-dejuney
 | the lunch | lo dejeuner | lo-dejuney
+| the dinner | lo diner | lo-diney
