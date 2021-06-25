@@ -94,3 +94,8 @@
 | the breakfast | lo petit-dejeuner | lo-peti-dejuney
 | the lunch | lo dejeuner | lo-dejuney
 | the dinner | lo diner | lo-diney
+| at .. o'clock | a .. heures | aah .. heu
+| at half past .. | a .. heures et demie | aah .. heu eh dimi
+| at quarter past .. | a .. heures et quart | aah .. heu eh qaar
+| in the morning | le matin | lo mataan
+| in the evening | le soir | lo suar
