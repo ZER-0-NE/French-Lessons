@@ -101,4 +101,14 @@
 | in the evening | le soir | lo suar
 | at quarter to ... | a .. heures moins le quart | aah .. heu moin lu qua
 | what time is it? | quelle heure est-il? | kel-eur-et-eil
-| it is .. o'clock | il est .. heures | eil-eh
+| it is .. o'clock | il est .. heures | eil-eh .. heures
+
+
+
+
+
+
+- 'h' here denotes heures
+![h](assets/3.png)
+
+- notice the difference 
