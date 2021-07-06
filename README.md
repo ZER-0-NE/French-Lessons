@@ -94,17 +94,28 @@
 | the breakfast | lo petit-dejeuner | lo-peti-dejuney
 | the lunch | lo dejeuner | lo-dejuney
 | the dinner | lo diner | lo-diney
-| at .. o'clock | a .. heures | aah .. heu
-| at half past .. | a .. heures et demie | aah .. heu eh dimi
-| at quarter past .. | a .. heures et quart | aah .. heu eh qaa
+| at .. o'clock | a .. heures | aah .. heure
+| at half past .. | a .. heures et demie | aah .. heure eh dimi
+| at quarter past .. | a .. heures et quart | aah .. heure eh qaa
 | in the morning | le matin | lo mataan
 | in the evening | le soir | lo suar
-| at quarter to ... | a .. heures moins le quart | aah .. heu moin lu qua
+| at quarter to ... | a .. heures moins le quart | aah .. heure moin lu qua
 | what time is it? | quelle heure est-il? | kel-eur-et-eil
 | it is .. o'clock | il est .. heures | eil-eh .. heures
+| a taxi | un taxi | un taxxi
+| the address | l'adresse | laa-dress
+| road | rue | ru
+| what is ..? | quelle est...? | kel-eh
 
 
 
+
+- Often some sentence like "the restaurant's address" which has an apostrophe in it becomes, in French,
+"the address of the restaurant". So to translate the sentence "What is the restaurant's address?" to French is to say "quelle est l'adresse du restaurant?".
+
+- Similarly, Pierre's chicken is delicious ---> the chicken of pierre is delicious --> Le poulet de Pierre est delicieux 
+
+- de --> of; de + le | of the | --> du
 
 
 
