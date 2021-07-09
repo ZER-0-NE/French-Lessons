@@ -110,7 +110,7 @@
 
 
 
-- Often some sentence like "the restaurant's address" which has an apostrophe in it becomes, in French,
+- Often some sentence like "the restaurant's address" which has an apostrophe in it becomes in French,
 "the address of the restaurant". So to translate the sentence "What is the restaurant's address?" to French is to say "quelle est l'adresse du restaurant?".
 
 - Similarly, Pierre's chicken is delicious ---> the chicken of pierre is delicious --> Le poulet de Pierre est delicieux 
