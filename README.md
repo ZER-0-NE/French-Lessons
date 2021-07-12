@@ -83,6 +83,8 @@
 | (to) pay (for)| payer | peye
 | (to) make | faire | feah
 | (to) hire/rent | louer | luye
+| (to) go | aller | aaley
+| (to) go to | aller a | aaley a
 | a car | une voiture | oon voitueah
 | a month/one month | un mois | un-muah
 | a week/one week | une semaine | oon semain
@@ -106,7 +108,7 @@
 | the address | l'adresse | laa-dress
 | road | rue | ru
 | what is ..? | quelle est...? | kel-eh
-
+| the beach | la plage | la-plage
 
 
 
@@ -115,7 +117,7 @@
 
 - Similarly, Pierre's chicken is delicious ---> the chicken of pierre is delicious --> Le poulet de Pierre est delicieux 
 
-- de --> of; de + le | of the | --> du
+- de --> of(deu); de + le | of the | --> du
 
 
 
