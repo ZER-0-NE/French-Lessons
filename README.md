@@ -109,6 +109,7 @@
 | road | rue | ru
 | what is ..? | quelle est...? | kel-eh
 | the beach | la plage | la-plage
+| from the | de | du
 
 
 
@@ -117,7 +118,10 @@
 
 - Similarly, Pierre's chicken is delicious ---> the chicken of pierre is delicious --> Le poulet de Pierre est delicieux 
 
-- de --> of(deu); de + le | of the | --> du
+- de --> of(deu); de + le | of the/from the | --> du
+- de --> of(deu); de + les | of the | --> des
+- to the/at the | a + le |  | --> au
+- to the/at the | a + les |  | --> aux
 
 
 
