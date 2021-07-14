@@ -110,6 +110,7 @@
 | what is ..? | quelle est...? | kel-eh
 | the beach | la plage | la-plage
 | from the | de | du
+| tomorrow | demain | duma
 
 
 
