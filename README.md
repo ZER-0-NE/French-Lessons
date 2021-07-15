@@ -111,6 +111,8 @@
 | the beach | la plage | la-plage
 | from the | de | du
 | tomorrow | demain | duma
+| tonight/this evening | ce soir | su sua
+| at the place / house of | chez | shey
 
 
 
