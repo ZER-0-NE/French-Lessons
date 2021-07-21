@@ -113,6 +113,10 @@
 | tomorrow | demain | duma
 | tonight/this evening | ce soir | su sua
 | at the place / house of | chez | shey
+| at Pierre's house | chez Pierre | shey Pierre
+| a room | une chambre | oon shaambra
+| with | avec | avec
+| a balcony | un balcon | un balcon
 
 
 
