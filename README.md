@@ -117,7 +117,10 @@
 | a room | une chambre | oon shaambra
 | with | avec | avec
 | a balcony | un balcon | un balcon
-
+| a television | une television | un televicion
+| ...doesn't work | ...ne marche pas | nu maarch pa
+| a card | une carte | oon cart
+| by card | par carte | paar carte
 
 
 - Often some sentence like "the restaurant's address" which has an apostrophe in it becomes in French,
